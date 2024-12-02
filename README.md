@@ -1,3 +1,3 @@
-#Hey there,
+# Hey visitor,
 
-##This is my portfolio!
+## Take a look through my digital portfolio!
